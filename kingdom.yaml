@@ -1,0 +1,8 @@
+name: death
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The force that lets things end so new things can begin.
+dependsOn: [ush, kur]
